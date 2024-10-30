@@ -15,6 +15,7 @@ I am a results-driven Digital Marketing Specialist with 5 years of experience cr
 * Git/Git Hub
 * Google Ads
 * Meta Ads
+* Tik Tok Ads
 ## Code Example
 ```
 <!DOCTYPE html>
