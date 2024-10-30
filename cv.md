@@ -12,7 +12,6 @@ I am a results-driven Digital Marketing Specialist with 5 years of experience cr
 * HTML
 * CSS
 * Javascript (Fundamentals)
-* Git/Git Hub
 * Google Ads
 * Meta Ads
 * Tik Tok Ads
