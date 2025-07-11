@@ -17,7 +17,7 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
 
-const names = ["Alice", "Bob", "Charlie", "Diana"];
+const names = ["Alice", "John", "Charlie", "Diana"];
 const randomName = names[getRandomInt(names.length)];
 
 console.log(`Hello, ${randomName}!`);
