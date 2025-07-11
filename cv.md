@@ -35,5 +35,6 @@ console.log(`Current time is: ${now.toLocaleTimeString()}`);
 * Estonian
 * English
 * Russian
+* Spanish
 
 
